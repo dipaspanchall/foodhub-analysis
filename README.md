@@ -32,7 +32,7 @@ To analyze customer and restaurant order data to help FoodHub:
 ---
 
 ### 🌐 Live Dashboard
-👉 **[View Interactive HTML Report](https://dipaspanchall.github.io/foodhub-data-analysis/)**  
+👉 **[View Interactive HTML Report](https://dipaspanchall.github.io/foodhub-analysis/)**  
 
 *(If the page doesn’t load instantly, wait a few seconds — GitHub Pages may take a moment to build.)*
 
